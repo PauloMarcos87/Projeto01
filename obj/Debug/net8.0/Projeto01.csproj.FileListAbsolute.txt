@@ -13,6 +13,7 @@ C:\Users\paulo\Desktop\Projeto\Projeto01\obj\Debug\net8.0\Projeto01.csproj.CoreC
 C:\Users\paulo\Desktop\Projeto\Projeto01\obj\Debug\net8.0\Projeto01.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\paulo\Desktop\Projeto\Projeto01\obj\Debug\net8.0\Projeto01.RazorAssemblyInfo.cache
 C:\Users\paulo\Desktop\Projeto\Projeto01\obj\Debug\net8.0\Projeto01.RazorAssemblyInfo.cs
+C:\Users\paulo\Desktop\Projeto\Projeto01\obj\Debug\net8.0\Projeto01.sourcelink.json
 C:\Users\paulo\Desktop\Projeto\Projeto01\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\paulo\Desktop\Projeto\Projeto01\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\paulo\Desktop\Projeto\Projeto01\obj\Debug\net8.0\staticwebassets\msbuild.Projeto01.Microsoft.AspNetCore.StaticWebAssets.props
